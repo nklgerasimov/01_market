@@ -1,0 +1,30 @@
+[
+	{
+		"img": "01",
+		"name": "Nattasha Julie",
+		"country": "Design, Australia",
+		"phone": "+1 (378) 400-1234",
+		"email": "julie@email.com"
+	},
+	{
+		"img": "02",
+		"name": "Nattasha",
+		"country": "Design, Austr",
+		"phone": "+1 (378) 400-1234",
+		"email": "julie@email.com"
+	},
+	{
+		"img": "03",
+		"name": "Julie",
+		"country": "Den, Australia",
+		"phone": "+1 (378) 400-1234",
+		"email": "julie@email.com"
+    },
+	{
+		"img": "03",
+		"name": "Nattasha Pi",
+		"country": "Design, Australia",
+		"phone": "+1 (378) 400-1234",
+		"email": "julie@email.com"
+    }
+]

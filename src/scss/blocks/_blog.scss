@@ -1,0 +1,26 @@
+.blog {
+    margin-top: 200px;
+}
+
+.blog__title {
+    font-family: var(--font-accent);
+    font-size: 50px;
+    line-height: 125%;
+    letter-spacing: 1px;
+    color: #292F36;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.blog__subtitle {
+    max-width: 811px;
+    margin: 0 auto;
+    padding-top: 12px;
+    padding-bottom: 52px;
+    font-size: 22px;
+    line-height: 150%;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    text-align: center;
+    text-wrap: wrap;
+}

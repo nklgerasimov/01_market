@@ -1,0 +1,23 @@
+<section class="blog">
+	<div class="container">
+		<div class="blog__title-wrapper">
+			<h2 class="blog__title">Articles & News</h2>
+			<p class="blog__subtitle">It is a long established fact that a reader will be distracted
+				 by the of readable content of a page when lookings at its layouts the points of using.
+			</p>
+			<!-- <div class="best__link">
+				<a href="#!" class="btn btn--small">View All</a>
+			</div> -->
+		</div>
+
+		<div class="blog__cards">
+			<!-- Slider main container -->
+			<div class="swiper">
+				<div class="swiper-wrapper">
+					@@loop('cards/blog-card.html', './data/products.json')
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+		</div>
+	</div>
+</section>

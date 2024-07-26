@@ -1,0 +1,64 @@
+.people-aboutus {
+    margin-top: 200px;
+}
+
+.people__wripper {
+    border-radius: 70px;
+    background-color: #F4F0EC;
+}
+
+.people__title {
+    padding-top: 88px;
+    padding-bottom: 40px;
+    text-align: center;
+    // text-wrap: wrap;
+}
+
+.people__cards {
+    padding: 0px 25px 88px 24px;
+    display: flex;
+    gap: 20px;
+}
+
+.people__card {
+    padding-top: 53px;
+    padding-left: 37px;
+    padding-right: 37px;
+    width: 370px;
+    height: 339px;
+    background-color: #fff;
+
+    border-radius: 30px;
+
+    &--aboutpage {
+        padding: 0;
+        width: 283px;
+        height: 433px;
+        background: none;
+    }
+}
+
+.people__card__title {
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 23px;
+
+}
+
+.people__card__img {
+    // border: 1px solid red;
+    width: 77px;
+    height: 77px;
+    border-radius: 50%;
+}
+
+.people__card__name {
+    font-family: var(--font-title) !important;
+    color: var(--color-title) !important;
+
+}
+
+.people__card__country {
+    font-size: 18px !important;
+}

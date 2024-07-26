@@ -1,0 +1,46 @@
+.header-main {
+	margin-top: 57px;
+}
+.header__wripper {
+	height: 758px;
+
+	background-color: #fff;
+	background-image: url('./../../img/header/Photo.jpg');
+	background-position: center center; /* x y */
+	background-size: contain;
+	background-repeat: no-repeat;
+	border-radius: 70px;
+}
+
+.header__content {
+	height: 100%;
+	max-width: 500px;
+	padding-left: 52px;
+	padding-top: 208px;
+
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 18px;
+
+	// @include mobile {
+	// 	gap: 32px;
+	// }
+}
+
+.header__title {
+	font-size: 65px !important;
+
+	// @include tablet {
+	// 	max-width: 250px;
+	// }
+
+	// @include mobile {
+	// 	max-width: 168px;
+	// 	font-size: 20px;
+	// }
+}
+
+.header__subtitle {
+
+}

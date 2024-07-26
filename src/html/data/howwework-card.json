@@ -1,0 +1,35 @@
+[
+	{
+		"img": "01",
+		"icon": "01",
+		"number": "01",
+		"title": "Concept & Details",
+		"text": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry. ",
+		"revers": "no"
+	},
+	{
+		"img": "02",
+		"icon": "02",
+		"number": "02",
+		"title": "Idea for Work",
+		"text": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry. ",
+		"revers": "revers"
+	},
+	{
+		"img": "03",
+		"icon": "03",
+		"number": "03",
+		"title": "Design",
+		"text": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry. ",
+		"revers": "no"
+	},
+	{
+		"img": "04",
+		"icon": "04",
+		"number": "04",
+		"title": "Perfection",
+		"text": "It is a long established fact  will be distracted. Lorem Ipsum is simply dummy from text of the and typesetting indufstry. ",
+		"revers": "revers"
+	}
+]
+

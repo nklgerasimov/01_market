@@ -1,0 +1,38 @@
+.mailbox {
+    margin-top: 200px;
+}
+
+.mailbox__wripper {
+    margin: 0 auto;
+    width: 796px;
+    // height: 632px;
+    .title {
+        text-align: center;
+    }
+}
+
+.form {
+    margin-top: 71px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-send {
+    display: flex;
+    gap: 40px;
+    padding-bottom: 57px;
+}
+
+.form-send__textarea {
+    margin-bottom: 71px;
+    border-bottom: 1px solid #4D5053;
+    width: 795px;
+    height: 145px;
+}
+
+.text-input {
+    border-bottom: 1px solid #4D5053;
+    width: 378px;
+}
